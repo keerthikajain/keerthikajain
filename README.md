@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Keerthi Kajain  
+# 👋 Hi, I’m KeerthiKajain  
 
 - 🌱 I’m currently learning **MERN stack (MongoDB, Express, React, Node.js)**  
 - 👀 I’m interested in **Open Source, Full-Stack Development, and Web Apps**  
