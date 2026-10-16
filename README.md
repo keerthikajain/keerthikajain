@@ -75,7 +75,9 @@ smartphone accelerometer and gyroscope data.
 ### [LearnTrack Pro](https://github.com/keerthikajain/LearnTrack-Pro)
 A mobile learning application built with React Native.
 
-### Saarthi · In Progress
+### [Saarthi — English-to-Hindi Translation](https://github.com/keerthikajain/Neural-Machine-Translation-System) · In Progress
+
+Developing an English-to-Hindi neural machine translation system using a Transformer architecture.
 An English-to-Hindi neural machine translation project using
 a Transformer architecture.
 
